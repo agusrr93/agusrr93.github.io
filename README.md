@@ -1,2 +1,2 @@
-# html-css-website
-Build a beatiful HTML/CSS website. Code for the scotch.io course.
+# final-project
+simple shoppinglist app with dom
